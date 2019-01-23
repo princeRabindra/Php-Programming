@@ -19,15 +19,3 @@ echo findSum($n);
   
 // This code is contributed by Sam007 
 ?> 
-
-
-<?php
-
-
-function mul($a, $b) {
-	return $a * $b;
-}
-
-
-
-?>
